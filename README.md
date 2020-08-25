@@ -1,4 +1,4 @@
-# docker-laravel-app
+# Docker-Laravel-Mysql-Nginx
  #### An example Dockerfile for a Laravel + Mysql + Nginx:  ####
   * PHP 7.3.3
   * Nginx - nginx:stable-alpine
