@@ -9,4 +9,5 @@ I assume that you have installed Docker in your system. Please find Docker docum
   * For Windows refer [here](https://docs.docker.com/docker-for-windows/install/ ) 
   * For Mac refer [here](https://docs.docker.com/docker-for-mac/install/) 
   
-## Clone Repor & Bulid Docker Image
+## Clone Repo & Bulid Docker Image
+Steps to clone this repo & build a Docker image:
